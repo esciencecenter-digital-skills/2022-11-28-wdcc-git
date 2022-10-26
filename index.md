@@ -238,9 +238,13 @@ of code below the Schedule `<h2>` header below with
 
 <h2 id="syllabus">Syllabus</h2>
 * Introduction to version control with Git
-* Tracking changes and exploring history
-* Ignoring things, remotes, and conflicts
-* 
+* Tracking changes
+* Exploring history
+* Ignoring things
+* Gitlab remotes
+* Conflicts
+* Centralized workflow with Git and Gitlab
+* Distributed workflow with Git and Gitlab
 
 <h2 id="schedule">Schedule</h2>
 
@@ -263,6 +267,7 @@ of code below the Schedule `<h2>` header below with
       <tr> <td>16:30</td>  <td>END</td> </tr>
     </tbody></table>
   </div>
+</div>
 
 
 
