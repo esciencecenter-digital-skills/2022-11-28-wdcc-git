@@ -319,6 +319,6 @@ during the workshop.
 <p>To participate in this workshop, you will need to prepare the following (if you haven’t already):</p>
 <ul>
   <li>Install Shell and Git. Please refer to <a href="https://coderefinery.github.io/installation/shell-and-git/">this page</a> for installation instructions.</li>
-  <li>Create a GitHub account. Please refer to <a href="https://gitlab.com/users/sign_up">this page</a> for instructions.</li>
+  <li>Create a GitLab account. Please refer to <a href="https://gitlab.com/users/sign_up">this page</a> for instructions.</li>
   <li>Set up an SSH connection to GitLab. First [check if you have an ssh key](https://docs.gitlab.com/ee/user/ssh.html#see-if-you-have-an-existing-ssh-key-pair). Then create an SSH key pair if you don't have one, please refer to <a href="https://docs.gitlab.com/ee/user/ssh.html#generate-an-ssh-key-pair">this page</a> for instructions. Then add the SSH key to your GitLab account following <a href="https://docs.gitlab.com/ee/user/ssh.html#add-an-ssh-key-to-your-gitlab-account">these instructions</a></li>
 </ul>
