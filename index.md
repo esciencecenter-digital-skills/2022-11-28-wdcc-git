@@ -236,14 +236,11 @@ of code below the Schedule `<h2>` header below with
 `{% include custom-schedule.html %}`.
 {% endcomment %}
 
-{% if info.carpentry == "ds" %}
 <h2 id="syllabus">Syllabus</h2>
-<ul>
-  <li>Introduction to version control with Git</li>
-  <li>Tracking changes and exploring history</li>
-  <li>Ignoring things, remotes, and conflictsb</li>
-</ul>
-{% endif %}
+* Introduction to version control with Git
+* Tracking changes and exploring history
+* Ignoring things, remotes, and conflicts
+* 
 
 <h2 id="schedule">Schedule</h2>
 
@@ -319,5 +316,5 @@ during the workshop.
 <ul>
   <li>Install Shell and Git. Please refer to <a href="https://coderefinery.github.io/installation/shell-and-git/">this page</a> for installation instructions.</li>
   <li>Create a GitHub account. Please refer to <a href="https://gitlab.com/users/sign_up">this page</a> for instructions.</li>
-  <li>Set up an SSH connection to GitLab. First create an SSH key pair if you don't have one, please refer to <a href="https://docs.gitlab.com/ee/user/ssh.html#generate-an-ssh-key-pair">this page</a> for instructions. Then add the SSH key to your GitLab account following <a href="https://docs.gitlab.com/ee/user/ssh.html#add-an-ssh-key-to-your-gitlab-account">these instructions</a></li>
+  <li>Set up an SSH connection to GitLab. First [check if you have an ssh key](https://docs.gitlab.com/ee/user/ssh.html#see-if-you-have-an-existing-ssh-key-pair). Then create an SSH key pair if you don't have one, please refer to <a href="https://docs.gitlab.com/ee/user/ssh.html#generate-an-ssh-key-pair">this page</a> for instructions. Then add the SSH key to your GitLab account following <a href="https://docs.gitlab.com/ee/user/ssh.html#add-an-ssh-key-to-your-gitlab-account">these instructions</a></li>
 </ul>
