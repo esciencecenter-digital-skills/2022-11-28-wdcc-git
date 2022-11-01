@@ -112,6 +112,11 @@ Modify the block below if there are any special requirements.
   They should have a few specific software packages installed (listed <a href="#setup">below</a>).
 </p>
 
+<p id="prerequisites">
+<strong>Prerequisites:</strong>
+It is assumed that participants already write code for their research, but no expertise is required. 
+Some experience in navigating file trees and editing files in a terminal session is recommended.
+</p>
 
 {% comment %}
 CONTACT EMAIL ADDRESS
